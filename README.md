@@ -3,7 +3,7 @@ Code by: Suleiman
 soleman630@gmail.com
 www.nicurb.com
 
-Works better in mobile version :)
+* Works better in mobile version :)
 
 --------------------------------------------
 
@@ -35,6 +35,8 @@ if you dont know what is the, go search google
 
 Notes:
 
-if you find files that doesn't belong to this script, just ignore it
+* if you find files that doesn't belong to this script, just ignore it
 i don't have time to clear the code :)
 because i did it in a hurry
+
+* In 'index.php' line 85 & 90 you will find (P1,P2) these are shortcuts for player names (you can leave it like this if you want)
