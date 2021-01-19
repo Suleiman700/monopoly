@@ -16,7 +16,7 @@ How to install:
 5. Upload the .sql file to phpmyadmin
 6. Open 'players' table and ONLY change player's names
 7. DONT change players colors (theme and buttons are based on player's colors)
-8. DONT chane bank name, leave it 'Bank'
+8. DONT change bank name, leave it 'Bank'
 9. Open inc folder, then open 'db.php'
 10. Edit db information if nedded
 
