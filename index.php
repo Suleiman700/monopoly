@@ -82,12 +82,12 @@ include_once 'inc/playerInfo.php';
 		<ul class="nav nav-tabs">
 			<li class="nav-item">
 				<a href="#player1" data-toggle="tab" aria-expanded="true" class="nav-link active">
-					<?php echo 'Ja [' . $p1Bal . ']'; ?>
+					<?php echo 'P1 [' . $p1Bal . ']'; ?>
 				</a>
 			</li>
 			<li class="nav-item">
 				<a href="#player2" data-toggle="tab" aria-expanded="false" class="nav-link">
-					<?php echo 'A7 [' . $p2Bal . ']'; ?>
+					<?php echo 'P2 [' . $p2Bal . ']'; ?>
 				</a>
 			</li>
 			<li class="nav-item">
