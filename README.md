@@ -1,8 +1,8 @@
 Monopoly banker script written in PHP | v1.0
-Code by: Suleiman
-soleman630@gmail.com
+Code by: Suleiman |
 www.nicurb.com
 
+* Only for 2 players
 * Works better in mobile version :)
 
 --------------------------------------------
