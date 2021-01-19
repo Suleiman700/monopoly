@@ -3,6 +3,8 @@ Code by: Suleiman
 soleman630@gmail.com
 www.nicurb.com
 
+Works better in mobile version :)
+
 --------------------------------------------
 
 How to install:
